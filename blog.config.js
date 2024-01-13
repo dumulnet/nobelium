@@ -1,5 +1,5 @@
 const BLOG = {
-  title: 'Dumulnet',
+  title: '빈돼와 함께하는 음식과 여행!',
   author: 'Bob, Kim',
   email: 'dumulnet@gmail.com',
   link: 'https://nobelium-lemon-three.vercel.app',
